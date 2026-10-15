@@ -1,7 +1,7 @@
 # contributor:
-Tamilnilavan.K - frontend development
-Pradeep.V - Tableau Developer
-Nithish.S - Tableau Developer
+Tamilnilavan.K - Frontend development,
+Pradeep.V - Tableau Developer,
+Nithish.S - Tableau Developer,
 
 # this is deployment link for the website :
 
